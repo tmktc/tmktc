@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**tmktc/tmktc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Aspiring Java Backend Developer** and a dedicated **Applied Informatics Student**. I’m passionate about building robust backend systems, learning new technologies, and taking on exciting programming challenges. My GitHub showcases some of my favorite projects and my journey as a developer.
 
-Here are some ideas to get you started:
+## 🌟 Highlight Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [pexeso](https://github.com/tmktc/pexeso) — _A fun and interactive game project with client-server architecture._
+- [library-manager](https://github.com/tmktc/library-manager) — _A management system for libraries._
+- [todo-list-app](https://github.com/tmktc/todo-list-app) — _A user-friendly to-do list application._
+- [todo-list-api](https://github.com/tmktc/todo-list-api) — _A RESTful API for managing to-do lists._
+
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmktc&layout=compact&theme=tokyonight)
