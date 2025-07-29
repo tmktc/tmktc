@@ -1,7 +1,3 @@
-## 🚀 About Me
-
-I'm an **Aspiring Java Backend Developer**. I’m passionate about building robust backend systems, learning new technologies, and taking on exciting programming challenges. My GitHub showcases some of my favorite projects and my journey as a developer.
-
 ## 🌟 Highlight Projects
 
 - [pexeso](https://github.com/vasak99/pexeso) — _A fun and interactive game project with client-server architecture._
